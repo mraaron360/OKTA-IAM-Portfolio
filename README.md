@@ -146,18 +146,25 @@ Deactivate user
 
 Result
 User lifecycle operations completed:
-
 User created
 Custom attribute configured
 Password reset performed
 User deactivated
 Events verified in logs
+
+
 Skills Demonstrated
+
 User lifecycle management
+
 Custom attribute configuration
+
 Credential management
+
 User deactivation
+
 Identity monitoring (logs)
+
 Okta Admin Console usage
 
 
