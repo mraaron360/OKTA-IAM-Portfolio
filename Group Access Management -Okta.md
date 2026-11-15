@@ -14,6 +14,7 @@ Administrators and User
 <img width="1377" height="481" alt="group" src="https://github.com/user-attachments/assets/acc8c9a9-0023-42fc-8484-b6f1f7945414" />
 
 Step 2 — View Groups List
+
 Verify groups appear in directory.
 
 
@@ -22,12 +23,16 @@ Verify groups appear in directory.
 
 
 Step 3 — Add User to Group
+
 Open: IT Administrators and Developers
+
 
 
 Click: Assign people
 
 <img width="1364" height="653" alt="Screenshot 2026-11-13 at 10 18 07 PM" src="https://github.com/user-attachments/assets/ce9d17d4-1977-442d-ad78-8a02224b7b6f" />
+
+
 
 Step 5 — Assign Group to Application
 Go to: Applications → Applications → Okta Workflows → Assignments
@@ -39,6 +44,8 @@ Go to: Applications → Applications → Okta Workflows → Assignments
 
 
 Click: Assign → Assign to Groups
+
+
 Select IT Administrators and Developers
 
 
