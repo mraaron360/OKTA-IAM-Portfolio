@@ -1,6 +1,6 @@
-# Okta SAML 2.0 SSO Lab
+# Okta SAML 2.0 SSO 
 
-Hands-on lab: configure Single Sign-On from **Okta (Identity Provider)** to a **SAML 2.0 Service Provider**, map user attributes, assign access, and verify the signed assertion end to end.
+ configure Single Sign-On from **Okta (Identity Provider)** to a **SAML 2.0 Service Provider**, map user attributes, assign access, and verify the signed assertion end to end.
 
 | | |
 |---|---|
